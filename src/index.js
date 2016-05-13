@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const App = ()=>{
+const App = () => {
   return(
     <div>
-      Hi
+      <p>Here we are</p>
     </div>
   )
 }
 
-ReactDOM.render(<App />, document.getElementById('root'))
+ReactDOM.render(<App />, document.querySelector('.container'))
