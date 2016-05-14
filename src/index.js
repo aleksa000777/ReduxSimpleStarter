@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import
+const API_KEY = 'AIzaSyCbZxXYsMwJx0_GwSXXU_XpPwaYT5uqMIE';
 
 const App = () => {
   return(
